@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-altdorf-homebrew",
+    "title": "WFRP4e - Altdorf - Crown of the Empire - Homebrew",
+    "description": "Altdorf - Crown of the Empire - Homebrew",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-altdorf-homebrew",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-altdorf-homebrew/releases/download/1.0.0/module.json"
+}
